@@ -1,8 +1,8 @@
 <?php
 
 class Shape {
-    private $height;
-    private $width;
+    protected $height;
+    protected $width;
 
     public function __construct(int|float $height, int|float $width) {
         $this->height = $height;

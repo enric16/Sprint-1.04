@@ -12,7 +12,7 @@ class Employee {
     public function print() {
         $taxes = "";
 
-        if ($this->salary >= 6000) {
+        if ($this->salary > 6000) {
             $taxes = "Paga impostos";
         } else {
             $taxes = "No paga impostos";
