@@ -7,13 +7,12 @@ There are two different exercices for the first level.
 
 Topics Covered:
 
- · PHP integration
- · OOP
- · Class and Subclass
+ · Creating and using objects in PHP.
+ · Using inheritance as a mechanism in objects.
 
 ## 📁 **Repository Structure**
 
- level1 - Beginner exercises on OOP in PHP. 
+ Level1 -
 
 ## 🛠️ **Technologies Used**
 
