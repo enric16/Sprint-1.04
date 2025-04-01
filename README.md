@@ -1,21 +1,19 @@
-# PHP Exercises Repository 1.03
+# PHP Exercises Repository 1.04
 
 ## 📌 **Description**
 
-This repository contains exercises designed to test knowledge of arrays in PHP.
-The exercises are divided into two directories based on difficulty level.
+This repository contains exercises designed to start using OOP in PHP.
+There are two different exercices for the first level.
 
 Topics Covered:
 
- · Associative arrays
-
- · Array-related functions
+ · PHP integration
+ · OOP
+ · Class and Subclass
 
 ## 📁 **Repository Structure**
 
- level1 - Beginner exercises on arrays
- 
- level2 - More complex exercises on associative arrays and array manipulation functions
+ level1 - Beginner exercises on OOP in PHP. 
 
 ## 🛠️ **Technologies Used**
 
