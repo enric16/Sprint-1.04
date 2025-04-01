@@ -5,9 +5,11 @@
 This repository contains exercises designed to start using OOP in PHP.
 There are two different exercices for the first level.
 
-Topics Covered:
+
+#### Topics Covered:
 
  · Creating and using objects in PHP.
+ 
  · Using inheritance as a mechanism in objects.
 
 ## 📁 **Repository Structure**
